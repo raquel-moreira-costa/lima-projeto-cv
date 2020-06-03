@@ -25,7 +25,6 @@
     text-align: center;
 }
 
-
 img[src]{
     width: 80px;
     height: 80px;
@@ -35,10 +34,12 @@ img[src]{
     left: 10px;
     float: left;
 }
+
 h1{
     width: 495px;
     height: 100px;
 }
+
 #perfil{
     position: relative;
     text-align: center;
@@ -50,6 +51,7 @@ h1{
     border-top: 2px solid steelblue;
     border-bottom: 2px solid steelblue;
 }
+
 #lado-direito1, #lado-direito2{
     margin: 10px;
     border: solid #E0C87D;
@@ -101,9 +103,7 @@ h1{
     height: 280px;
 }
 
-
 #esq1, #esq2{
 list-style: none;
 padding: 0px;
-
 }
